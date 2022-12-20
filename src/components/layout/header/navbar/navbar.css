@@ -1,0 +1,23 @@
+.nav-container{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.nav-lists{
+    list-style: none;
+    display: block;
+}
+
+.nav-item{
+   display: inline-block;
+   padding-right: 40px;
+}
+
+#cart-count{
+    background-color: white;
+    color: #ff781e;
+    border-radius: 50%;
+    padding-left: 7px;
+    padding-right: 7px;
+}

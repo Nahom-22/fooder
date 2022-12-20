@@ -1,0 +1,26 @@
+.cart-container {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 30%;
+  background-color: transparent;
+  overflow-x: hidden;
+  padding-top: 160px;
+  padding-right: 150px;
+  transition: 0.5s;
+  color: white;
+  
+}
+.cart-wrapper{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid orange;
+  box-sizing: border-box;
+    box-shadow: 1.5px 1.7px 1.7px 1.5px rgb(197, 197, 197);
+}

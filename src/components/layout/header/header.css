@@ -1,0 +1,22 @@
+.header-container{
+    height: 120px;
+    border-bottom:2px solid orange;
+    border-bottom-right-radius: 85%;
+    background-color: orange;
+    color: white;
+}
+
+.header-wrapper{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header-left{
+    padding: 20px;
+}
+
+.header-right{
+    padding: 20px;
+}

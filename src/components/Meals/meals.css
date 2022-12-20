@@ -1,0 +1,38 @@
+.meals-container{
+    padding: 40px;
+}
+
+.meals-wrapper{
+    padding-left: 30px;
+}
+
+.search-bar-container{
+    float: right;
+    padding-right: 70px;
+}
+
+.meal-lists{
+    list-style:none;
+    display: block;
+    padding-top: 50px;
+    background-color: orange;
+    border-radius: 12px;
+}
+
+.meal-item{
+    display: inline-block;
+    height: 200px;
+    margin: 20px;
+    width: 250px;
+    border-radius: 12px;
+    box-sizing: border-box;
+    box-shadow: 1.7px 1.7px 1.7px 1.7px rgb(255, 223, 162);
+}
+
+.meals-menu{
+    width: 100%;
+    padding-top: 5px;
+    border-radius:12px ;
+    display: grid;
+    grid-template-columns: 15% 85%;
+}

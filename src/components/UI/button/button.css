@@ -1,0 +1,38 @@
+.nav-btn{
+    background-color: transparent;
+    border: none;
+    border-radius: 12px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+.nav-btn:hover{
+    background-color: white;
+    color: orange;
+    transition: .5s ease-out;
+}
+
+.cart-btn{
+    background-color: #ff781e;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.cart-btn-bump{
+    background-color: #ff781e;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 18px;
+}
